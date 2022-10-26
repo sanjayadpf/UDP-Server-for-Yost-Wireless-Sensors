@@ -1,1 +1,8 @@
 
+cff-version: 1.2.0
+message: "UDP-server-for-yost-wireless-sensors"
+authors:
+  - family-names: Mallikarachchi
+    given-names: Sanjaya
+title: "UDP-server-for-yost-wireless-sensors"
+version: 1.0
